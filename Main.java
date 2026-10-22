@@ -6,4 +6,4 @@ public class Main {
         System.out.println("Sistema de vigilancia activado");
         System.out.println("Protocolo de emergencia preparado");
     }
-}   
+}
