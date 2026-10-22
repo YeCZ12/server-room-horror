@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Sistema de seguretat iniciat");
         System.out.println("Control d'accessos activat");
         System.out.println("Sistema de vigilancia activado");
+        System.out.println("Protocolo de emergencia preparado");
     }
 }   
